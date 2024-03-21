@@ -1,3 +1,6 @@
+# ***branch to improve efficiency of MoE layer
+
+
 # Grok-1
 
 This repository contains JAX example code for loading and running the Grok-1 open-weights model.
